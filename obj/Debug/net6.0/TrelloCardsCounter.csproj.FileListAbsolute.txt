@@ -1,0 +1,15 @@
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\bin\Debug\net6.0\TrelloCardsCounter.exe
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\bin\Debug\net6.0\TrelloCardsCounter.deps.json
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\bin\Debug\net6.0\TrelloCardsCounter.runtimeconfig.json
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\bin\Debug\net6.0\TrelloCardsCounter.dll
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\bin\Debug\net6.0\TrelloCardsCounter.pdb
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\obj\Debug\net6.0\TrelloCardsCounter.csproj.AssemblyReference.cache
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\obj\Debug\net6.0\TrelloCardsCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\obj\Debug\net6.0\TrelloCardsCounter.AssemblyInfoInputs.cache
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\obj\Debug\net6.0\TrelloCardsCounter.AssemblyInfo.cs
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\obj\Debug\net6.0\TrelloCardsCounter.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\obj\Debug\net6.0\TrelloCardsCounter.dll
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\obj\Debug\net6.0\refint\TrelloCardsCounter.dll
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\obj\Debug\net6.0\TrelloCardsCounter.pdb
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\obj\Debug\net6.0\TrelloCardsCounter.genruntimeconfig.cache
+C:\Users\Daniil\Documents\Code\cards-counter-for-trello\obj\Debug\net6.0\ref\TrelloCardsCounter.dll
